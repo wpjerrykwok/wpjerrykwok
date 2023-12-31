@@ -60,15 +60,17 @@ _italic by adding one underscore before and after_
 3 underscores
 ___
 # Links
+link text in brackets and URL in parentheses   
+[Jerry's LinkedIn](https://www.linkedin.com/in/wpjerrykwok/)
 
-Links (like referencing)
-http://www.linkedin.com
-[website](http://www.linkedin.com "LinkedIn")
-[LinkedIn]
-[Learning][1]
-[LinkedIn]: http://www.linkedin.com
-[1]: http://www.linkedin.com/learning
-Images
+put in <> for a quick add   
+<https://www.linkedin.com/in/wpjerrykwok/>
+
+bracket followed by bracket for reference style link [Jerry's LinkedIn][1]
+
+[1]: https://www.linkedin.com/in/wpjerrykwok/
+
+# Images
 ![tomolor](https://pixelprowess.com/i/stargazers/tomolor.png)
 
 ![tomolor]
@@ -119,3 +121,4 @@ alert syntax
 > [!WARNING]
 > Warning
 
+_Reference:_ [Markdown Guide](https://www.markdownguide.org/)
