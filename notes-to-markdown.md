@@ -45,12 +45,17 @@ _italic by adding one underscore before and after_
 
 # Code
 `enclosed with backtick`
+
 ```
 <html>
   <head>
     Tab to make code block
   </head>
 </html>
+```
+
+```py
+<code block>
 ```
 # Rules
 3 asterisks
@@ -59,6 +64,7 @@ _italic by adding one underscore before and after_
 ---
 3 underscores
 ___
+
 # Links
 link text in brackets and URL in parentheses   
 [Jerry's LinkedIn](https://www.linkedin.com/in/wpjerrykwok/)
@@ -71,47 +77,46 @@ bracket followed by bracket for reference style link [Jerry's LinkedIn][1]
 [1]: https://www.linkedin.com/in/wpjerrykwok/
 
 # Images
-![tomolor](https://pixelprowess.com/i/stargazers/tomolor.png)
+! followed by brackets and then path in parentheses
+![Panda Lisa](pandalisa.png)
 
-![tomolor]
-[tomolor]: https://pixelprowess.com/i/stargazers/tomolor.png
-
-[![Tomolor] (https://pixelprowess.com/i/stargazers/tomolor.png)](http://raybo.org)
-Code
-inline console.log(x) code
-`show`
-```py
-<code block>
-```
-Footnotes
+# Footnotes
 This is a footnote[^1]. Another footnote[^2].
 [^1]: My reference
 [^2]: Another footnote
-tables
+
+# Table
 |left |center|right|
-|-----|:-----:|----:|
+|:-----|:-----:|----:|
 |One|Two|$1.00|
-task list
-- [x] First
-   - [x] One
+
+# Task List
+- [x] dash with brackets
+- [ ] First
+   - [x] indented One
 - [ ] Second
 
-- [ ] collapsed details
+# Collapsed Details
 <details>
 <summary>collapsed</summary>
-
-# Header
-
 This is the copy for the collapsed text.
 </details>
-Special additions
+
+# Special Additions
 drag/drop/paste different file types
-# issues
-@ mentions
-emojis :
+
+#issues
+
+@mentions
+
+emojis using : 
+🔰
+
 escape \
+
 color `#FABCDE`
-alert syntax
+
+# Alert Syntax
 > [!NOTE]
 > A note
 
