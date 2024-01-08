@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Welcome!
 
-Hello! My name is Wai Ping (Jerry) Kwok.
+Hello! My name is Jerry (Wai Ping) Kwok.
 
 <!--
 **wpjerrykwok/wpjerrykwok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
