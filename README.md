@@ -18,6 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@wpjerrykwok/30-nites-of-code)  
-  ![@wpjerrykwok #30NitesOfCode](https://www.codedex.io/api/petStatus?user=wpjerrykwok)
+
